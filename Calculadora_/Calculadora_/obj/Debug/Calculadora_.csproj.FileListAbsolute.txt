@@ -8,3 +8,13 @@ C:\Users\Vinicius\Desktop\Calculadora_\Calculadora_\obj\Debug\Calculadora_.cspro
 C:\Users\Vinicius\Desktop\Calculadora_\Calculadora_\obj\Debug\Calculadora_.csproj.CoreCompileInputs.cache
 C:\Users\Vinicius\Desktop\Calculadora_\Calculadora_\obj\Debug\Calculadora_.exe
 C:\Users\Vinicius\Desktop\Calculadora_\Calculadora_\obj\Debug\Calculadora_.pdb
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\bin\Debug\Calculadora_.exe.config
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\bin\Debug\Calculadora_.exe
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\bin\Debug\Calculadora_.pdb
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\obj\Debug\Calculadora_.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\obj\Debug\Calculadora_.Form1.resources
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\obj\Debug\Calculadora_.Properties.Resources.resources
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\obj\Debug\Calculadora_.csproj.GenerateResource.cache
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\obj\Debug\Calculadora_.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\obj\Debug\Calculadora_.exe
+C:\Users\Vinicius\Documents\MeusProjetos\Calculadora\Calculadora_\Calculadora_\obj\Debug\Calculadora_.pdb
